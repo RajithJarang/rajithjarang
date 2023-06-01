@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajith Jarang</h1>
 <h3 align="center">A passionate Backend Developer As a seasoned backend developer, I specialize in .NET Core, Python, and microservices. With a focus on efficiency and code craftsmanship, I am passionate about creating robust and scalable solutions that power modern applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajithjarang&label=Profile%20views&color=0e75b6&style=flat" alt="rajithjarang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajithjarang" alt="rajithjarang" /></a> </p>
-
-- 🔭 I’m currently working on **GoNeedy**
+- 🔭 I’m currently working on **Erstnot**
 
 - 🌱 I’m currently learning **Golang**
 
@@ -28,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajithjarang&show_icons=true&locale=en" alt="rajithjarang" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajithjarang&" alt="rajithjarang" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajithjarang&label=Profile%20views&color=0e75b6&style=flat" alt="rajithjarang" /> </p>
