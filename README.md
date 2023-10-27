@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajith Jarang</h1>
 <h3 align="center">A passionate Backend Developer As a seasoned backend developer, I specialize in .NET Core, Python, and microservices. With a focus on efficiency and code craftsmanship, I am passionate about creating robust and scalable solutions that power modern applications.</h3>
 
-- 🔭 I’m currently working on **Erstnot**
+- 🔭 I’m currently working at **Erstnot**
 
 - 🌱 I’m currently learning **Golang**
 
