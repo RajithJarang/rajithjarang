@@ -7,9 +7,9 @@ I am passionate about leveraging AI to solve complex problems and am open to new
 
 - 🔭 I’m currently working at **Erstnot**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Building LLMs from scratch**
 
-- 💬 Ask me about **Python, Cloud Computing**
+- 💬 Ask me about **Python, AI, LLMs, Cloud Computing**
 
 - 📫 How to reach me **rajith@erstnot.in**
 
