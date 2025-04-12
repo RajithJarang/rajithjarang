@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajith Jarang</h1>
-<h3 align="center">A passionate Backend Developer As a seasoned backend developer, I specialize in .NET Core, Python, and microservices. With a focus on efficiency and code craftsmanship, I am passionate about creating robust and scalable solutions that power modern applications.</h3>
+<h3 align="center"I am a Senior Machine Learning Engineer with expertise in AI and data annotation. With a B.Tech from IIT Hyderabad, I have developed advanced AI solutions at Appen AI, achieving a 93% accuracy rate in detecting Generative AI content. My work includes leading projects like 'Preannotate with AI' and 'SmartQA', significantly reducing costs and enhancing efficiency.
+
+I am skilled in machine learning, natural language processing, Python, Django, microservices, and Docker. My experience spans media asset management, viewership analytics, and smart IoT solutions. Previously, at Honeywell, I developed a scalable CI/CD pipeline and innovative solutions for smart buildings.
+
+I am passionate about leveraging AI to solve complex problems and am open to new opportunities and collaborations in AI and technology development..</h3>
 
 - 🔭 I’m currently working at **Erstnot**
 
